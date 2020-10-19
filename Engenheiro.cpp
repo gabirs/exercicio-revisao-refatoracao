@@ -7,5 +7,7 @@ class Engenheiro : public Empregado {
     std::string nome;  
 	int projetos;
 	
+ int projetos{}
+	
 };
 
